@@ -1,4 +1,4 @@
-package com.startjava.lesson_1;
+package com.startjava.lesson_1.test;
 public class MyFirstApp {	
     public static void main(String[] args) {
         System.out.println("Hello, world");

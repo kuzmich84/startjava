@@ -1,4 +1,4 @@
-package com.startjava.lesson_2_3;
+package com.startjava.lesson_2_3.test;
 import java.util.Scanner; // импорт сканера
  
 class Test {
