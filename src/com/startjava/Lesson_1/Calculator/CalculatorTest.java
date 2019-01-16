@@ -4,9 +4,9 @@ public class CalculatorTest{
 	public static void main(String [] args){
 
 		Scanner scan=new Scanner(System.in);
-		System.out.print("Введите первое число");
+		System.out.print("Р’РІРµРґРёС‚Рµ РїРµСЂРІРѕРµ С‡РёСЃР»Рѕ ");
 		int number1=scan.nextInt();
-		System.out.print("Введите второе число");
+		System.out.print("Р’РІРµРґРёС‚Рµ РІС‚РѕСЂРѕРµ С‡РёСЃР»Рѕ ");
 		int number2=scan.nextInt();
 
 	}
