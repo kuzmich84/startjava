@@ -1,4 +1,4 @@
-package com.startjava.lesson_4;
+package com.startjava.lesson_4.array;
 
-public class array {
+public class Array {
 }
